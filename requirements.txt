@@ -7,3 +7,4 @@ Pillow==9.2.0
 Markdown==3.4.1
 markdown2==2.4.3
 attrs==20.3.0
+dj-database-url==2.0.0
