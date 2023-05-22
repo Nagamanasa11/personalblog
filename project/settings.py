@@ -27,6 +27,7 @@ SECRET_KEY = 'django-insecure-3cz^)&hw636t7$p+mpw1%k-rw&3-$bem#9db5c2ut*sng$j12$
 DEBUG = True
 ALLOWED_HOSTS = ['azureblogcreator.azurewebsites.net','localhost']
 
+
 # Application definition
 
 INSTALLED_APPS = [
